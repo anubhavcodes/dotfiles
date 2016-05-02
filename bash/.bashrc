@@ -117,4 +117,6 @@ if ! shopt -oq posix; then
 fi
 
 # Base16 Shell
-source "/home/anubhav/.config/base16-shell/base16-monokai.dark.sh"
+BASE16_THEME="monokai"
+BASE16_SHELL="$HOME/.config/base16-shell/base16-$BASE16_THEME.dark.sh"
+[[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
