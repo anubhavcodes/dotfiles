@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/anubhav/projects/poc/rmotr/.cache'
+let g:netrw_dirhist_2='/home/anubhav/projects/poc/rmotr'
+let g:netrw_dirhist_3='/home/anubhav/projects/poc/rmotr/.cache'
+let g:netrw_dirhist_4='/home/anubhav/.Xresources.d'
+let g:netrw_dirhist_5='/home/anubhav/.vim/colors'
+let g:netrw_dirhist_6='/home/anubhav/.dir_colors'
