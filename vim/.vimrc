@@ -30,6 +30,9 @@ call plug#begin('~/.vim/plugged')
 " Goyo vim for undistracted writing
 Plug 'junegunn/goyo.vim'
 
+" Insert mode autocomplete for brackets, quotes, braces etc
+Plug 'Raimondi/delimitMate'
+
 " Add plugins to &runtimepath
 call plug#end()
 
