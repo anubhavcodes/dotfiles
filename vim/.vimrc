@@ -33,6 +33,9 @@ Plug 'junegunn/goyo.vim'
 " Insert mode autocomplete for brackets, quotes, braces etc
 Plug 'Raimondi/delimitMate'
 
+" Jedi for the masters of the univers
+Plug 'davidhalter/jedi-vim'
+
 " Add plugins to &runtimepath
 call plug#end()
 
