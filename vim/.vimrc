@@ -36,6 +36,16 @@ Plug 'Raimondi/delimitMate'
 " Jedi for the masters of the univers
 Plug 'davidhalter/jedi-vim'
 
+" vim tmux navigator
+Plug 'christoomey/vim-tmux-navigator'
+
+" vim Airline for vim
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+" tmuxline for vim
+Plug 'edkolev/tmuxline.vim'
+
 " Add plugins to &runtimepath
 call plug#end()
 
@@ -44,3 +54,8 @@ let base16colorspace=256  " Access colors present in 256 colorspace
 set t_Co=256 " 256 color mode
 set background=dark
 colorscheme base16-monokai
+
+" Airline
+let g:airline_powerline_fonts = 1
+set laststatus=2
+let g:airline_theme='base16'
