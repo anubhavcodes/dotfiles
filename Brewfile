@@ -30,6 +30,7 @@ cask "spotify"
 cask "karabiner-elements"
 cask "notion"
 cask "skype"
+cask "postman"
 mas "1password", id: 1333542190
 mas "airmail", id: 918858936
 mas "trello", id: 1278508951
