@@ -31,7 +31,9 @@ cask "karabiner-elements"
 cask "notion"
 cask "skype"
 cask "postman"
+cask "google-backup-and-sync"
 mas "1password", id: 1333542190
 mas "airmail", id: 918858936
 mas "trello", id: 1278508951
 mas "bear", id: 1091189122
+mas "giphy", id: 668208984
