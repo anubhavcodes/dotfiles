@@ -12,6 +12,7 @@ brew "pre-commit"
 brew "pipenv"
 brew "bash"
 brew "gnu-sed"
+brew "direnv"
 cask "iterm2"
 cask "keybase"
 cask "google-chrome"
@@ -42,3 +43,4 @@ mas "airmail", id: 918858936
 mas "trello", id: 1278508951
 mas "bear", id: 1091189122
 mas "giphy", id: 668208984
+mas "numbers", id: 409203825
