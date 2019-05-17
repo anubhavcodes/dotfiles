@@ -8,6 +8,7 @@ brew "docker-machine"
 brew "pandoc"
 brew "lynx"
 brew "p7zip"
+brew "pre-commit"
 cask "iterm2"
 cask "keybase"
 cask "google-chrome"
@@ -31,7 +32,16 @@ cask "karabiner-elements"
 cask "notion"
 cask "skype"
 cask "postman"
+cask "steam"
+cask "discord"
+cask "twitch"
+cask "mullvadvpn"
 mas "1password", id: 1333542190
 mas "airmail", id: 918858936
 mas "trello", id: 1278508951
 mas "bear", id: 1091189122
+# Kubernetes specific
+cask "minikube"
+cask "virtualbox"
+brew "kubernetes-cli"
+brew "kubernetes-helm"
