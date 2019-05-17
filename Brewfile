@@ -9,6 +9,10 @@ brew "pandoc"
 brew "lynx"
 brew "p7zip"
 brew "pre-commit"
+brew "pipenv"
+brew "bash"
+brew "gnu-sed"
+brew "direnv"
 cask "iterm2"
 cask "keybase"
 cask "google-chrome"
@@ -36,10 +40,16 @@ cask "steam"
 cask "discord"
 cask "twitch"
 cask "mullvadvpn"
+cask "google-backup-and-sync"
+cask "raindropio"
+cask "steam"
 mas "1password", id: 1333542190
 mas "airmail", id: 918858936
 mas "trello", id: 1278508951
 mas "bear", id: 1091189122
+mas "giphy", id: 668208984
+mas "numbers", id: 409203825
+mas "keynote", id: 409183694
 # Kubernetes specific
 cask "minikube"
 cask "virtualbox"
