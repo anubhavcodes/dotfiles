@@ -46,3 +46,5 @@ mas "Trello", id: 1278508951
 brew "kubernetes-cli"
 brew "kubernetes-helm"
 cask "google-cloud-sdk"
+cask "virtualbox"
+cask "minikube"
