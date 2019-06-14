@@ -41,3 +41,8 @@ mas "GIPHY CAPTURE", id: 668208984
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Trello", id: 1278508951
+
+# Kubernetes essentials
+brew "kubernetes-cli"
+brew "kubernetes-helm"
+cask "google-cloud-sdk"
