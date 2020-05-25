@@ -292,6 +292,10 @@
       "paprikapp": null,
       "instapaper": null,
       "reeder 4": null
+    },
+    "whalebrew": {
+      "whalebrew/awscli": "98f54491dda8fec19d8e53658bff98033830d93ca81881b05ea5917baf789755",
+      "whalebrew/wget": "3cf95cb2ad77f3ab119f461391ce37a026f2da43f5d3e9c8235d0ef66aa29580"
     }
   },
   "system": {
