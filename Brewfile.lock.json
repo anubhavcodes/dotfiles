@@ -278,6 +278,12 @@
         "options": {
           "full_name": "font-monoid"
         }
+      },
+      "zoomus": {
+        "version": "5.0.24978.0517",
+        "options": {
+          "full_name": "zoomus"
+        }
       }
     },
     "mas": {
