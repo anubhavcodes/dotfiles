@@ -297,7 +297,11 @@
       "bear": null,
       "paprikapp": null,
       "instapaper": null,
-      "reeder 4": null
+      "reeder 4": null,
+      "Sasquatch": {
+        "id": "1465346522",
+        "version": "1.3.3"
+      }
     },
     "whalebrew": {
       "whalebrew/awscli": "98f54491dda8fec19d8e53658bff98033830d93ca81881b05ea5917baf789755",

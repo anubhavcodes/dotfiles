@@ -32,4 +32,4 @@ mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
 mas "instapaper", id: 1481302432
 mas "reeder 4", id: 1449412482
-
+mas "Sasquatch", id: 1465346522
