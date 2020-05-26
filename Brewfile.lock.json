@@ -284,6 +284,12 @@
         "options": {
           "full_name": "zoomus"
         }
+      },
+      "steam": {
+        "version": "latest",
+        "options": {
+          "full_name": "steam"
+        }
       }
     },
     "mas": {
