@@ -7,8 +7,6 @@ brew "node"
 brew "whalebrew"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
-whalebrew "whalebrew/awscli"
-whalebrew "whalebrew/wget"
 cask "alfred"
 cask "spotify"
 cask "keybase"
@@ -28,6 +26,8 @@ cask "iterm2"
 cask "zoomus"
 cask "steam"
 cask "discord"
+#whalebrew "whalebrew/awscli"
+#whalebrew "whalebrew/wget"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
