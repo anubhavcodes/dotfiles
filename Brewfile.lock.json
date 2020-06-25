@@ -2,22 +2,22 @@
   "entries": {
     "brew": {
       "git": {
-        "version": "2.26.2_1",
+        "version": "2.27.0",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.26.2_1.catalina.bottle.tar.gz",
-              "sha256": "8796a6c37723ae33d22fe5bfc249b9135b309c87ec2b41e6025d726df1a2dee6"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.catalina.bottle.tar.gz",
+              "sha256": "5bfe46796926e48d2d78ee87e93195c0a36f7c70d9aa4ff8ab77277a6582441a"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.26.2_1.mojave.bottle.tar.gz",
-              "sha256": "592f95984655ada33979a863f5d12e07fca9a67b7c6e7eab9f17b597f9cd9fc9"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.mojave.bottle.tar.gz",
+              "sha256": "dffad4b938672dda3aef783f88cf38d67923f8f8e68df77b198476816fd37d4f"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.26.2_1.high_sierra.bottle.tar.gz",
-              "sha256": "4d765a420dec19d5261e12b336b6912e9e5fb571ffb5bc4b5d7eae7f7766347d"
+              "url": "https://homebrew.bintray.com/bottles/git-2.27.0.high_sierra.bottle.tar.gz",
+              "sha256": "c9f1d9ac100e43a2e6f1df9785d98119d08bf144d862fb541c1212ccfb700041"
             }
           }
         }
@@ -65,22 +65,22 @@
         }
       },
       "pre-commit": {
-        "version": "2.4.0",
+        "version": "2.5.1",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.4.0.catalina.bottle.tar.gz",
-              "sha256": "1d73a6c0cc2dc9869e415095454a41b224a6093c60194fe8dead9aba328ba872"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.5.1.catalina.bottle.tar.gz",
+              "sha256": "93058a2fa48812d5f9b3ff0fa394db5f409da24dc6e07e194be23a6135588fdd"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.4.0.mojave.bottle.tar.gz",
-              "sha256": "d82e9f3265020af2af98aac3d79cda31be8213742c9a9cf0e8e0700a3771852c"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.5.1.mojave.bottle.tar.gz",
+              "sha256": "6bac723478fd07a6cb12f79cc19a93679a84cd13c21dc16d56a1a1a70c842600"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.4.0.high_sierra.bottle.tar.gz",
-              "sha256": "4affd7ab48dbe342d22ff1382a32c2569189dadf2e5610026efdf768598fd18e"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.5.1.high_sierra.bottle.tar.gz",
+              "sha256": "b54af2a9f3c3136b29f79f727d28eec3016829bdef0c707bf8f75386a356f3cd"
             }
           }
         }
@@ -103,22 +103,22 @@
         }
       },
       "node": {
-        "version": "14.3.0",
+        "version": "14.4.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.3.0.catalina.bottle.tar.gz",
-              "sha256": "e34c4c25365bc0f5cc245d791dd936fc552ed1fa3fc37d61605df09ef47bcd20"
+              "url": "https://homebrew.bintray.com/bottles/node-14.4.0.catalina.bottle.tar.gz",
+              "sha256": "7fbf484b2c921451809192dba684a838ba387a4affc1d4380ebb607f95ccf0ec"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.3.0.mojave.bottle.tar.gz",
-              "sha256": "e99250060bccd2ff693bc396be5518a69c414e457ba340e7224d1ec523f804a9"
+              "url": "https://homebrew.bintray.com/bottles/node-14.4.0.mojave.bottle.tar.gz",
+              "sha256": "06ef204701e93bbcf3909dba4ac9d3ca1d4df00a980f03cbeab390be1c562d34"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.3.0.high_sierra.bottle.tar.gz",
-              "sha256": "5c634b87385445505dbbf0a3d91a32312208d7537d8ac54a20c32fbbcd97ddf5"
+              "url": "https://homebrew.bintray.com/bottles/node-14.4.0.high_sierra.bottle.tar.gz",
+              "sha256": "68c7e5ff3e93bda3795d954b83609282f9ccf3cbe8096affeb28179d1fc1bd1d"
             }
           }
         }
@@ -168,14 +168,18 @@
             }
           }
         }
+      },
+      "youtube-dl": {
+        "version": "2020.06.16.1",
+        "bottle": false
       }
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "c5a67a60caae701b79f3fa240b3e871ac881b1b7"
+        "revision": "f3836b20bd4887c321cbbda097322df16de7d228"
       },
       "homebrew/cask-fonts": {
-        "revision": "898fcbba7e60af5f66e37e9f58d05ab7913f04ce"
+        "revision": "b67d3c735eceb8367b06d7a969a71595d6b10c51"
       }
     },
     "cask": {
@@ -210,7 +214,7 @@
         }
       },
       "font-fira-code": {
-        "version": "4",
+        "version": "5.2",
         "options": {
           "full_name": "font-fira-code"
         }
@@ -292,6 +296,18 @@
         "options": {
           "full_name": "discord"
         }
+      },
+      "zettlr": {
+        "version": "1.6.0",
+        "options": {
+          "full_name": "zettlr"
+        }
+      },
+      "gifcapture": {
+        "version": "1.1.0",
+        "options": {
+          "full_name": "gifcapture"
+        }
       }
     },
     "mas": {
@@ -313,11 +329,11 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.2.17",
+        "HOMEBREW_VERSION": "2.4.2",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "fc6de2e38a07c08a7b0da9e9f263f83ed815ad5d",
+        "Homebrew/homebrew-core": "93b55a24d6075467ea73382fa1d492c7ad2d21bb",
         "CLT": "11.5.0.0.1.1588476445",
-        "Xcode": "11.4.1",
+        "Xcode": "11.5",
         "macOS": "10.15.4"
       }
     }
