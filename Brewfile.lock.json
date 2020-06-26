@@ -193,7 +193,29 @@
             }
           }
         }
-      }
+      },
+      "doctl": {
+        "version": "1.45.1",
+        "bottle": {
+          "cellar": ":any_skip_relocation",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/doctl-1.45.1.catalina.bottle.tar.gz",
+              "sha256": "e6e9288be9f8a0b1481dfa693a8a17d3ccb4712f6c5f5c01ca0ef90924e685f3"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/doctl-1.45.1.mojave.bottle.tar.gz",
+              "sha256": "eade457a9301889f62515066726d7e762675b40aa6bc5a67748e148021561fa7"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/doctl-1.45.1.high_sierra.bottle.tar.gz",
+              "sha256": "44255495677369f45527289fdde2588bd5893721d8362ab55e32a40c6cb60590"
+            }
+          }
+        }
+      },
+      "heroku/brew/heroku": null
     },
     "tap": {
       "homebrew/cask": {
@@ -201,6 +223,9 @@
       },
       "homebrew/cask-fonts": {
         "revision": "b67d3c735eceb8367b06d7a969a71595d6b10c51"
+      },
+      "heroku/brew": {
+        "revision": "2fbdd513b72119e373505ef0c9047a8090cae7d6"
       }
     },
     "cask": {
