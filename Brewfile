@@ -32,9 +32,10 @@ cask "steam"
 cask "discord"
 cask "lepton"
 cask "insomnia"
+cask "handbrake"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/wget"
-whalebrew "whalebrew/youtube-dl"
+#whalebrew "whalebrew/youtube-dl"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
