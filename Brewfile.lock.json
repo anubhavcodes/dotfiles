@@ -360,6 +360,12 @@
         "options": {
           "full_name": "lepton"
         }
+      },
+      "insomnia": {
+        "version": "2020.2.2",
+        "options": {
+          "full_name": "insomnia"
+        }
       }
     },
     "mas": {
@@ -376,7 +382,8 @@
     },
     "whalebrew": {
       "whalebrew/awscli": "98f54491dda8fec19d8e53658bff98033830d93ca81881b05ea5917baf789755",
-      "whalebrew/wget": "3cf95cb2ad77f3ab119f461391ce37a026f2da43f5d3e9c8235d0ef66aa29580"
+      "whalebrew/wget": "3cf95cb2ad77f3ab119f461391ce37a026f2da43f5d3e9c8235d0ef66aa29580",
+      "whalebrew/youtube-dl": "67ecea8ce9aae196bcf7dfa9f1553da32706d43bd302c4cdf11b6f81a1821fbd"
     }
   },
   "system": {
@@ -385,9 +392,9 @@
         "HOMEBREW_VERSION": "2.4.2",
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "93b55a24d6075467ea73382fa1d492c7ad2d21bb",
-        "CLT": "11.5.0.0.1.1588476445",
+        "CLT": "1103.0.32.62",
         "Xcode": "11.5",
-        "macOS": "10.15.4"
+        "macOS": "10.15.5"
       }
     }
   }
