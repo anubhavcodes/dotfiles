@@ -43,3 +43,5 @@ mas "instapaper", id: 1481302432
 mas "reeder 4", id: 1449412482
 mas "Sasquatch", id: 1465346522
 mas "Gi Fox 2", id: 1461845568
+mas "Giphy Capture", id: 668208984
+mas "Numbers", id: 409203825  
