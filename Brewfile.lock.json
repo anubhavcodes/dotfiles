@@ -22,27 +22,7 @@
           }
         }
       },
-      "python": {
-        "version": "3.7.8",
-        "bottle": {
-          "cellar": "/usr/local/Cellar",
-          "prefix": "/usr/local",
-          "files": {
-            "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.8.catalina.bottle.tar.gz",
-              "sha256": "f7fb660ba03f202d739f38ded3ac5952569103855d8a8e9aa1a7bfff764bdfc2"
-            },
-            "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.8.mojave.bottle.tar.gz",
-              "sha256": "41f002aafc187556d0f247590d4b554ca9b361a66c7b14341cf63a21eaee1b0f"
-            },
-            "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/python-3.7.8.high_sierra.bottle.tar.gz",
-              "sha256": "d2315dbe4f3266b7c6efe8bfda3ae0bedc60792cfff00f4bcdf87e5923274ef3"
-            }
-          }
-        }
-      },
+      "python": null,
       "direnv": {
         "version": "2.21.3",
         "bottle": {
@@ -219,10 +199,10 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "1f8cc90cb7c5dd72d6d7fb91278ad257ba1207f7"
+        "revision": "5bb36b5a3b78e6b445f84469cc4038fd9b6f2903"
       },
       "homebrew/cask-fonts": {
-        "revision": "36ebfd64d7e4fb1d673926bdd5119b4acd602fb9"
+        "revision": "f0177f59ec25a75a9e0acba1c44d12b752a53ebf"
       },
       "heroku/brew": {
         "revision": "b6eee0bc937bfe30c8aa37ad1082c143801f1add"
@@ -242,19 +222,19 @@
         }
       },
       "keybase": {
-        "version": "5.4.2-20200424204055,7b0bbf1e3c",
+        "version": "5.5.0-20200526170801,139bb348af",
         "options": {
           "full_name": "keybase"
         }
       },
       "docker": {
-        "version": "2.3.0.2,45183",
+        "version": "2.3.0.3,45519",
         "options": {
           "full_name": "docker"
         }
       },
       "telegram": {
-        "version": "6.1.4.200256",
+        "version": "6.2.3.202354",
         "options": {
           "full_name": "telegram"
         }
@@ -266,19 +246,19 @@
         }
       },
       "omnifocus": {
-        "version": "3.6.4",
+        "version": "3.8",
         "options": {
           "full_name": "omnifocus"
         }
       },
       "fork": {
-        "version": "1.0.93.1",
+        "version": "1.0.95",
         "options": {
           "full_name": "fork"
         }
       },
       "visual-studio-code": {
-        "version": "1.45.1",
+        "version": "1.46.1",
         "options": {
           "full_name": "visual-studio-code"
         }
@@ -290,31 +270,31 @@
         }
       },
       "firefox": {
-        "version": "76.0.1",
+        "version": "78.0.1",
         "options": {
           "full_name": "firefox"
         }
       },
       "jetbrains-toolbox": {
-        "version": "1.17.6856",
+        "version": "1.17.7139",
         "options": {
           "full_name": "jetbrains-toolbox"
         }
       },
       "slack": {
-        "version": "4.5.1",
+        "version": "4.7.0",
         "options": {
           "full_name": "slack"
         }
       },
       "karabiner-elements": {
-        "version": "12.9.0",
+        "version": "12.10.0",
         "options": {
           "full_name": "karabiner-elements"
         }
       },
       "iterm2": {
-        "version": "3.3.10",
+        "version": "3.3.12",
         "options": {
           "full_name": "iterm2"
         }
@@ -401,10 +381,10 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.3",
+        "HOMEBREW_VERSION": "2.4.4",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "c0f2ab8752359119c99e8adf5b08d7f2b4bb6690",
-        "CLT": "1103.0.32.62",
+        "Homebrew/homebrew-core": "0d18ff9f965a1ff33142c0ea3e0ec11190a16924",
+        "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.5"
       }
