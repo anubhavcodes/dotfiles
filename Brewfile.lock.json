@@ -352,6 +352,18 @@
         "options": {
           "full_name": "handbrake"
         }
+      },
+      "obsidian": {
+        "version": "0.7.4",
+        "options": {
+          "full_name": "obsidian"
+        }
+      },
+      "notion": {
+        "version": "2.0.7",
+        "options": {
+          "full_name": "notion"
+        }
       }
     },
     "mas": {
@@ -369,7 +381,7 @@
       "Giphy Capture": null,
       "Numbers": {
         "id": "409203825",
-        "version": "10.0"
+        "version": "10.1"
       }
     },
     "whalebrew": {
@@ -384,7 +396,7 @@
         "HOMEBREW_VERSION": "2.4.4",
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "0d18ff9f965a1ff33142c0ea3e0ec11190a16924",
-        "CLT": "11.5.0.0.1.1588476445",
+        "CLT": "1103.0.32.62",
         "Xcode": "11.5",
         "macOS": "10.15.5"
       }
