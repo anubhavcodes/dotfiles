@@ -195,7 +195,8 @@
           }
         }
       },
-      "heroku/brew/heroku": null
+      "heroku/brew/heroku": null,
+      "golang": null
     },
     "tap": {
       "homebrew/cask": {
