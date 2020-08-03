@@ -36,6 +36,7 @@ cask "handbrake"
 cask "obsidian"
 cask "notion"
 #whalebrew "whalebrew/awscli"
+#whalebrew "whalebrew/kubectl"
 #whalebrew "whalebrew/wget"
 #whalebrew "whalebrew/youtube-dl"
 mas "1password", id: 1091189122
