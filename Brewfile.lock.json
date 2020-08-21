@@ -200,13 +200,13 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "3fc998e8d9ef0cbf9f737a6097dd00fb6c03c7fb"
+        "revision": "e0566491282dfebd549c0ed76edcae4fdc297f69"
       },
       "homebrew/cask-fonts": {
-        "revision": "7b8e417102f22f2ec8adab20ad8c92d9c1e66ecf"
+        "revision": "be2313365ccccfa366b2a6f73ac9a71d50ee2c61"
       },
       "heroku/brew": {
-        "revision": "73895eaeed3fb0b3cd90d3dfddb8cfe4178084b1"
+        "revision": "c5c91e0a6e19e21a598fd902700451603b661f94"
       }
     },
     "cask": {
@@ -229,13 +229,13 @@
         }
       },
       "docker": {
-        "version": "2.3.0.3,45519",
+        "version": "2.3.0.4,46911",
         "options": {
           "full_name": "docker"
         }
       },
       "telegram": {
-        "version": "6.2.3.202354",
+        "version": "7.0.204345",
         "options": {
           "full_name": "telegram"
         }
@@ -247,19 +247,19 @@
         }
       },
       "omnifocus": {
-        "version": "3.8",
+        "version": "3.9.1",
         "options": {
           "full_name": "omnifocus"
         }
       },
       "fork": {
-        "version": "1.0.95",
+        "version": "1.0.96.1",
         "options": {
           "full_name": "fork"
         }
       },
       "visual-studio-code": {
-        "version": "1.47.1",
+        "version": "1.48.0",
         "options": {
           "full_name": "visual-studio-code"
         }
@@ -271,19 +271,19 @@
         }
       },
       "firefox": {
-        "version": "78.0.2",
+        "version": "79.0",
         "options": {
           "full_name": "firefox"
         }
       },
       "jetbrains-toolbox": {
-        "version": "1.17.7139",
+        "version": "1.17.7391",
         "options": {
           "full_name": "jetbrains-toolbox"
         }
       },
       "slack": {
-        "version": "4.7.0",
+        "version": "4.8.0",
         "options": {
           "full_name": "slack"
         }
@@ -319,7 +319,7 @@
         }
       },
       "discord": {
-        "version": "0.0.257",
+        "version": "0.0.258",
         "options": {
           "full_name": "discord"
         }
@@ -371,6 +371,12 @@
         "options": {
           "full_name": "kindle"
         }
+      },
+      "omniplan": {
+        "version": "4.0.2",
+        "options": {
+          "full_name": "omniplan"
+        }
       }
     },
     "mas": {
@@ -381,7 +387,7 @@
       "reeder 4": null,
       "Sasquatch": {
         "id": "1465346522",
-        "version": "1.3.5"
+        "version": "1.4.1"
       },
       "Gifox 2": null,
       "Gi Fox 2": null,
@@ -400,10 +406,10 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.11",
+        "HOMEBREW_VERSION": "2.4.12",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "20dda0169f09c3cb386d2e988705e59efcf60fd5",
-        "CLT": "1103.0.32.62",
+        "Homebrew/homebrew-core": "a5480a226e145745e8902846eb940915192155ae",
+        "CLT": "11.5.0.0.1.1588476445",
         "Xcode": "11.5",
         "macOS": "10.15.6"
       }
