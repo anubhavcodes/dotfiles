@@ -233,6 +233,9 @@
       },
       "heroku/brew": {
         "revision": "c5c91e0a6e19e21a598fd902700451603b661f94"
+      },
+      "homebrew/cask-drivers": {
+        "revision": "3478dabebfd93a91002b346c295e63a14cc099c6"
       }
     },
     "cask": {
@@ -402,6 +405,12 @@
         "version": "4.0.2",
         "options": {
           "full_name": "omniplan"
+        }
+      },
+      "elgato-control-center": {
+        "version": "1.1.2,10315",
+        "options": {
+          "full_name": "elgato-control-center"
         }
       }
     },
