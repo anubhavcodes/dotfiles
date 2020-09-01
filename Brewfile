@@ -38,7 +38,6 @@ cask "insomnia"
 cask "handbrake"
 cask "obsidian"
 cask "kindle"
-cask "omniplan"
 cask "elgato-control-center"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
