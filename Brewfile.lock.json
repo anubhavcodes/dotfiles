@@ -45,22 +45,22 @@
         }
       },
       "pre-commit": {
-        "version": "2.6.0",
+        "version": "2.7.1",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.6.0.catalina.bottle.tar.gz",
-              "sha256": "07f783f5e5d2de8b0422862ff4d42ff640eacba5f5aee8f827a7420bafe1608d"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.7.1.catalina.bottle.tar.gz",
+              "sha256": "16fedb26ac5b237eecb5ab73a2a4aef5a7f1c87cd9bb1409c523a0e00f3fa572"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.6.0.mojave.bottle.tar.gz",
-              "sha256": "81b50ee8b4627c98dd5fd5ce891db89fc4831fdee8402807c02699ec4b449c76"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.7.1.mojave.bottle.tar.gz",
+              "sha256": "ea8e2a1eedfe8a1ea1035e39601d5974ce166dee4395ceb0ea388af577b64a18"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.6.0.high_sierra.bottle.tar.gz",
-              "sha256": "abec3b65eb9d7f5f6f7be12bbbbfe19d14bd5bfb0aeafd00c630b01aff8be317"
+              "url": "https://homebrew.bintray.com/bottles/pre-commit-2.7.1.high_sierra.bottle.tar.gz",
+              "sha256": "a9701f56135259c2896d7fdc83bd299aedb70dbda1c909c243d899ed800a317f"
             }
           }
         }
@@ -83,22 +83,22 @@
         }
       },
       "node": {
-        "version": "14.8.0",
+        "version": "14.9.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.8.0.catalina.bottle.tar.gz",
-              "sha256": "ec85b0f1a6b5ab229ee1445ca604f6455e15dfa632efdb79839296e5c2fc6631"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.catalina.bottle.tar.gz",
+              "sha256": "df9d87a46dfa38140b2742ab1b00121825b92aabbcd98be2b8c7b4900752f749"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.8.0.mojave.bottle.tar.gz",
-              "sha256": "5e2de72f9e1fc18df29226a40ae6efe39bff083f1f91d765c5dbd9db308613ae"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.mojave.bottle.tar.gz",
+              "sha256": "f9c186c264f8b4511b981a7332ffaddd6e58cab2276c45e87c0e75d35a55e43f"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.8.0.high_sierra.bottle.tar.gz",
-              "sha256": "7129555cbbde75ed026b19506fb6f5184545a0ac30121cce63ab92d4310b99a3"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.high_sierra.bottle.tar.gz",
+              "sha256": "2996971a08a2db37f99390a82e5c94850f8dca1006827ce9669ec96bd249b64e"
             }
           }
         }
@@ -226,16 +226,16 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "e0566491282dfebd549c0ed76edcae4fdc297f69"
+        "revision": "45d0aac01c5d79681794e007ebdef65a106207ff"
       },
       "homebrew/cask-fonts": {
-        "revision": "be2313365ccccfa366b2a6f73ac9a71d50ee2c61"
+        "revision": "228a17e9dfbece2e14e8ce8bf1b9be67673e2891"
       },
       "heroku/brew": {
-        "revision": "c5c91e0a6e19e21a598fd902700451603b661f94"
+        "revision": "6799ed0b4abcd57b9de2ca1a60305d2868d7c66c"
       },
       "homebrew/cask-drivers": {
-        "revision": "3478dabebfd93a91002b346c295e63a14cc099c6"
+        "revision": "b0475060828075e2b312f58e339383bd95b87ba6"
       }
     },
     "cask": {
@@ -258,13 +258,13 @@
         }
       },
       "docker": {
-        "version": "2.3.0.4,46911",
+        "version": "2.3.0.3,45519",
         "options": {
           "full_name": "docker"
         }
       },
       "telegram": {
-        "version": "7.0.204345",
+        "version": "6.2.3.202354",
         "options": {
           "full_name": "telegram"
         }
@@ -276,19 +276,19 @@
         }
       },
       "omnifocus": {
-        "version": "3.9.1",
+        "version": "3.8",
         "options": {
           "full_name": "omnifocus"
         }
       },
       "fork": {
-        "version": "1.0.96.1",
+        "version": "1.0.95",
         "options": {
           "full_name": "fork"
         }
       },
       "visual-studio-code": {
-        "version": "1.48.0",
+        "version": "1.47.1",
         "options": {
           "full_name": "visual-studio-code"
         }
@@ -300,19 +300,19 @@
         }
       },
       "firefox": {
-        "version": "79.0",
+        "version": "78.0.2",
         "options": {
           "full_name": "firefox"
         }
       },
       "jetbrains-toolbox": {
-        "version": "1.17.7391",
+        "version": "1.17.7139",
         "options": {
           "full_name": "jetbrains-toolbox"
         }
       },
       "slack": {
-        "version": "4.8.0",
+        "version": "4.7.0",
         "options": {
           "full_name": "slack"
         }
@@ -348,7 +348,7 @@
         }
       },
       "discord": {
-        "version": "0.0.258",
+        "version": "0.0.257",
         "options": {
           "full_name": "discord"
         }
@@ -384,7 +384,7 @@
         }
       },
       "obsidian": {
-        "version": "0.8.2",
+        "version": "0.8.9",
         "options": {
           "full_name": "obsidian"
         }
@@ -411,6 +411,12 @@
         "version": "1.1.2,10315",
         "options": {
           "full_name": "elgato-control-center"
+        }
+      },
+      "logitech-camera-settings": {
+        "version": "3.0.12",
+        "options": {
+          "full_name": "logitech-camera-settings"
         }
       }
     },
@@ -441,11 +447,11 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.4.12",
+        "HOMEBREW_VERSION": "2.4.16",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "a5480a226e145745e8902846eb940915192155ae",
-        "CLT": "12.0.0.0.1.1597368733",
-        "Xcode": "12.0",
+        "Homebrew/homebrew-core": "0687baaf14e7b16c383d101fcc3b954cfb05ffe8",
+        "CLT": "1103.0.32.62",
+        "Xcode": "11.5",
         "macOS": "10.15.6"
       }
     }

@@ -39,6 +39,7 @@ cask "handbrake"
 cask "obsidian"
 cask "kindle"
 cask "elgato-control-center"
+cask "logitech-camera-settings"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
 #whalebrew "whalebrew/wget"
