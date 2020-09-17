@@ -369,6 +369,12 @@
         "options": {
           "full_name": "twitch"
         }
+      },
+      "raspberry-pi-imager": {
+        "version": "1.4",
+        "options": {
+          "full_name": "raspberry-pi-imager"
+        }
       }
     },
     "mas": {
