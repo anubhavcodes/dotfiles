@@ -40,11 +40,12 @@ cask "obsidian"
 cask "kindle"
 cask "elgato-control-center"
 cask "logitech-camera-settings"
+cask "twitch"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
 #whalebrew "whalebrew/wget"
 #whalebrew "whalebrew/youtube-dl"
-whalebrew "whalebrew/jq"
+#whalebrew "whalebrew/jq"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
