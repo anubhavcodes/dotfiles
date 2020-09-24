@@ -42,6 +42,7 @@ cask "elgato-control-center"
 cask "logitech-camera-settings"
 cask "twitch"
 cask "raspberry-pi-imager"
+cask "osxfuse"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
 #whalebrew "whalebrew/wget"
