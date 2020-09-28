@@ -44,6 +44,7 @@ cask "logitech-camera-settings"
 cask "twitch"
 cask "raspberry-pi-imager"
 cask "osxfuse"
+cask "anki"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
 #whalebrew "whalebrew/wget"

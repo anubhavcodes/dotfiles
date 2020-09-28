@@ -439,6 +439,12 @@
         "options": {
           "full_name": "osxfuse"
         }
+      },
+      "anki": {
+        "version": "2.1.33",
+        "options": {
+          "full_name": "anki"
+        }
       }
     },
     "mas": {
