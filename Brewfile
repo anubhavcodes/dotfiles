@@ -10,7 +10,6 @@ brew "doctl"
 brew "golang"
 brew "kubectl"
 brew "dep"
-brew "ext4fuse"
 brew "p7zip"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -59,3 +58,4 @@ mas "Sasquatch", id: 1465346522
 mas "Gi Fox 2", id: 1461845568
 mas "Giphy Capture", id: 668208984
 mas "Numbers", id: 409203825  
+brew "ext4fuse" # Needs a dependency from cask first.
