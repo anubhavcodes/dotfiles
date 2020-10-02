@@ -66,39 +66,39 @@
         }
       },
       "mas": {
-        "version": "1.7.1",
+        "version": "1.7.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/mas-1.7.1.catalina.bottle.tar.gz",
-              "sha256": "e6de2f98ebd21885a9827664fe1b7eea5516a7fd75d5b7383e3a9b088591a27f"
+              "url": "https://homebrew.bintray.com/bottles/mas-1.7.0.catalina.bottle.tar.gz",
+              "sha256": "b985d100947063ee94961f7f1290f232786634b869d20d56bd553197cf91188b"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/mas-1.7.1.mojave.bottle.tar.gz",
-              "sha256": "8b6dc4e261ebdc8e2f93afe87da3db4d482eb3d8a0358ab19a0485d434550e77"
+              "url": "https://homebrew.bintray.com/bottles/mas-1.7.0.mojave.bottle.tar.gz",
+              "sha256": "c7005c34a3cf38d23f98e9cc238a0deae61f50ea5dfbcf51a34cc689a9db315e"
             }
           }
         }
       },
       "node": {
-        "version": "14.12.0",
+        "version": "14.9.0",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.12.0.catalina.bottle.tar.gz",
-              "sha256": "f38f39f5c60c1938e445762e85e7d5d367a88467da5f99d4e6949d6b9be3e164"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.catalina.bottle.tar.gz",
+              "sha256": "df9d87a46dfa38140b2742ab1b00121825b92aabbcd98be2b8c7b4900752f749"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.12.0.mojave.bottle.tar.gz",
-              "sha256": "9b41bd6e0515b4b9200978245855a62dc26f3c279051e6172dffc22bd0d0d935"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.mojave.bottle.tar.gz",
+              "sha256": "f9c186c264f8b4511b981a7332ffaddd6e58cab2276c45e87c0e75d35a55e43f"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/node-14.12.0.high_sierra.bottle.tar.gz",
-              "sha256": "eac7b1196e62fff511897c55c2d7864069536525e0df5756a9d24491c6e5c4cc"
+              "url": "https://homebrew.bintray.com/bottles/node-14.9.0.high_sierra.bottle.tar.gz",
+              "sha256": "2996971a08a2db37f99390a82e5c94850f8dca1006827ce9669ec96bd249b64e"
             }
           }
         }
@@ -255,20 +255,41 @@
             }
           }
         }
+      },
+      "ansible": {
+        "version": "2.9.11",
+        "bottle": {
+          "cellar": ":any",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/ansible-2.9.11.catalina.bottle.tar.gz",
+              "sha256": "a34259e91253838f02bf51c987cccfc56e8b756b6035bf85221d973a49911efe"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/ansible-2.9.11.mojave.bottle.tar.gz",
+              "sha256": "f7abe5a6aa6d20b69671ac6c2d683a9f4f402ed102a05eeb0e71af430751ff72"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/ansible-2.9.11.high_sierra.bottle.tar.gz",
+              "sha256": "3920c151d1a517bf76ac13f61868200fd327f772dc78d72ee285c20f7e299205"
+            }
+          }
+        }
       }
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "e7d5f015195c35ba6096ac104b848b83e4f2f6c7"
+        "revision": "ea230d23d677f496d988e4e31fdbf1323c05a983"
       },
       "homebrew/cask-fonts": {
-        "revision": "bd966014eceec41a130707813f67f35f7c354149"
+        "revision": "228a17e9dfbece2e14e8ce8bf1b9be67673e2891"
       },
       "homebrew/cask-drivers": {
-        "revision": "1bad54329b990175fef26ac3ac10820b04f4cd94"
+        "revision": "b0475060828075e2b312f58e339383bd95b87ba6"
       },
       "heroku/brew": {
-        "revision": "4ebb95db2a01c9747397d4984059425ab0c95a5e"
+        "revision": "6799ed0b4abcd57b9de2ca1a60305d2868d7c66c"
       }
     },
     "cask": {
@@ -291,13 +312,13 @@
         }
       },
       "docker": {
-        "version": "2.3.0.3,45519",
+        "version": "2.3.0.4,46911",
         "options": {
           "full_name": "docker"
         }
       },
       "telegram": {
-        "version": "6.2.3.202354",
+        "version": "7.0.204345",
         "options": {
           "full_name": "telegram"
         }
@@ -315,43 +336,43 @@
         }
       },
       "omnifocus": {
-        "version": "3.8",
+        "version": "3.9.1",
         "options": {
           "full_name": "omnifocus"
         }
       },
       "fork": {
-        "version": "1.0.95",
+        "version": "1.0.96.1",
         "options": {
           "full_name": "fork"
         }
       },
       "visual-studio-code": {
-        "version": "1.47.1",
+        "version": "1.48.0",
         "options": {
           "full_name": "visual-studio-code"
         }
       },
       "robo-3t": {
-        "version": "1.4.1,122dbd9",
+        "version": "1.3.1,7419c40",
         "options": {
           "full_name": "robo-3t"
         }
       },
       "firefox": {
-        "version": "78.0.2",
+        "version": "79.0",
         "options": {
           "full_name": "firefox"
         }
       },
       "jetbrains-toolbox": {
-        "version": "1.17.7139",
+        "version": "1.17.7391",
         "options": {
           "full_name": "jetbrains-toolbox"
         }
       },
       "slack": {
-        "version": "4.7.0",
+        "version": "4.8.0",
         "options": {
           "full_name": "slack"
         }
@@ -375,7 +396,7 @@
         }
       },
       "discord": {
-        "version": "0.0.257",
+        "version": "0.0.258",
         "options": {
           "full_name": "discord"
         }
@@ -399,7 +420,7 @@
         }
       },
       "obsidian": {
-        "version": "0.8.15",
+        "version": "0.8.9",
         "options": {
           "full_name": "obsidian"
         }
@@ -411,7 +432,7 @@
         }
       },
       "elgato-control-center": {
-        "version": "1.1.3,10337",
+        "version": "1.1.2,10315",
         "options": {
           "full_name": "elgato-control-center"
         }
@@ -441,7 +462,7 @@
         }
       },
       "anki": {
-        "version": "2.1.34",
+        "version": "2.1.33",
         "options": {
           "full_name": "anki"
         }
@@ -474,11 +495,11 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.5.2",
+        "HOMEBREW_VERSION": "2.4.16",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "30caaf83364c9ff9d389e41a35697c4409b0935e",
-        "CLT": "1103.0.32.62",
-        "Xcode": "11.5",
+        "Homebrew/homebrew-core": "a87ccf43a16586d8f65521c08812c29bb0f5252e",
+        "CLT": "12.0.0.0.1.1599194153",
+        "Xcode": "12.0",
         "macOS": "10.15.6"
       }
     }
