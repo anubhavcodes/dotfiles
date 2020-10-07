@@ -47,6 +47,7 @@ cask "raspberry-pi-imager"
 cask "osxfuse"
 cask "anki"
 cask "vlc"
+cask "sketchup-pro"
 #whalebrew "whalebrew/awscli"
 #whalebrew "whalebrew/kubectl" older version
 #whalebrew "whalebrew/wget"

@@ -472,6 +472,12 @@
         "options": {
           "full_name": "vlc"
         }
+      },
+      "sketchup-pro": {
+        "version": "20.2.171,2020.2",
+        "options": {
+          "full_name": "sketchup-pro"
+        }
       }
     },
     "mas": {
