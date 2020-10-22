@@ -1,3 +1,6 @@
+font:
+  family: "FiraCode-Retina"
+  size: 16
 colors:
   # Default colors
   primary:
