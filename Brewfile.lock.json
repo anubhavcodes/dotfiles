@@ -545,6 +545,12 @@
         "options": {
           "full_name": "sketchup-pro"
         }
+      },
+      "alacritty": {
+        "version": "0.5.0",
+        "options": {
+          "full_name": "alacritty"
+        }
       }
     },
     "mas": {
