@@ -423,6 +423,27 @@
             }
           }
         }
+      },
+      "k9s": {
+        "version": "0.23.1",
+        "bottle": {
+          "cellar": ":any_skip_relocation",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/k9s-0.23.1.catalina.bottle.tar.gz",
+              "sha256": "2dbf29f4c204cb5358708435e0ab2baacc667b854fc85056daad64ef4405a898"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/k9s-0.23.1.mojave.bottle.tar.gz",
+              "sha256": "f53502be87dc3371407b68840d42df2e6792205f64fec073f4ed7a4567d369d9"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/k9s-0.23.1.high_sierra.bottle.tar.gz",
+              "sha256": "94c8995976d54b16ab2da8ae9496eb25eb4c6a9dcd6b2cfa36e55355bd068c2c"
+            }
+          }
+        }
       }
     },
     "tap": {
@@ -653,7 +674,7 @@
       "reeder 4": null,
       "Sasquatch": {
         "id": "1465346522",
-        "version": "1.4.4"
+        "version": "1.4.5"
       },
       "Gi Fox 2": null,
       "Giphy Capture": null,
