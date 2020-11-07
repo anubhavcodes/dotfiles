@@ -12,6 +12,7 @@ autoload -Uz compinit && compinit
 # Favourite aliases
 alias dc="docker-compose"
 alias do="doctl"
+alias k="kubectl"
 
 # Starship prompt
 # Must be at the end of zshrc
