@@ -4,7 +4,6 @@ brew "direnv"
 brew "pre-commit"
 brew "mas"
 brew "node"
-brew "whalebrew"
 brew "asciinema"
 brew "doctl"
 brew "golang"
@@ -62,9 +61,6 @@ cask "sketchup-pro"
 cask "alacritty"
 cask "font-fira-code-nerd-font"
 cask "screen"
-#whalebrew "whalebrew/wget"
-#whalebrew "whalebrew/youtube-dl"
-#whalebrew "whalebrew/jq"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
