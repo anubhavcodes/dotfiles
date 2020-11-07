@@ -58,7 +58,6 @@ cask "osxfuse"
 cask "anki"
 cask "vlc"
 cask "sketchup-pro"
-cask "alacritty"
 cask "font-fira-code-nerd-font"
 cask "screen"
 mas "1password", id: 1091189122
