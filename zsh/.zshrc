@@ -14,6 +14,7 @@ alias dc="docker-compose"
 alias do="doctl"
 alias k="kubectl"
 alias cat="bat"
+alias watch="watch -n 2"
 
 # Starship prompt
 # Must be at the end of zshrc
