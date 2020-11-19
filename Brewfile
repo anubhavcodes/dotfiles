@@ -63,6 +63,7 @@ cask "font-fira-code-nerd-font"
 cask "screen"
 cask "dash"
 cask "nova"
+cask "lens"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
