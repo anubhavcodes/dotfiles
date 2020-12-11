@@ -918,7 +918,11 @@
       },
       "Jira Cloud by Atlassian": null,
       "reeder 5": null,
-      "Up-Next": null
+      "Up-Next": null,
+      "Meeter": {
+        "id": "1510445899",
+        "version": "1.8.9"
+      }
     }
   },
   "system": {

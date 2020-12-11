@@ -73,4 +73,4 @@ mas "Gi Fox 2", id: 1461845568
 mas "Giphy Capture", id: 668208984
 mas "Numbers", id: 409203825  
 mas "Jira Cloud by Atlassian", id: 1475897096
-mas "Up-Next", id: 1355117041
+mas "Meeter", id: 1510445899
