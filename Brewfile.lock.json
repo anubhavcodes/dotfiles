@@ -622,17 +622,42 @@
             }
           }
         }
+      },
+      "sshuttle": {
+        "version": "1.0.4_1",
+        "bottle": {
+          "cellar": ":any_skip_relocation",
+          "prefix": "/usr/local",
+          "files": {
+            "big_sur": {
+              "url": "https://homebrew.bintray.com/bottles/sshuttle-1.0.4_1.big_sur.bottle.tar.gz",
+              "sha256": "465a87922822f59c5e3cbc014a2eb15e3dde2fa30064db8ec8eda3752fe58be1"
+            },
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/sshuttle-1.0.4_1.catalina.bottle.tar.gz",
+              "sha256": "41b9c52318318597e31403c66bc1fff91fd3da97047e6d82344f406118d06d17"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/sshuttle-1.0.4_1.mojave.bottle.tar.gz",
+              "sha256": "5ee6b7d0f0afdd178a769213c1da1c1caea53228e8a21dcd4571b7fcc643deef"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/sshuttle-1.0.4_1.high_sierra.bottle.tar.gz",
+              "sha256": "ddc86c2b17f9b3caedd813a8f2d11b9154637f5783b73a031276aef78909b1c1"
+            }
+          }
+        }
       }
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "b7c07b29aa36e7d2448b300cb197ad8dff16b843"
+        "revision": "4de271fb5491d0953064f21761c7991afade8b00"
       },
       "homebrew/cask-fonts": {
         "revision": "78e4a9dbb464ae80e52587f11294446724ffbfd4"
       },
       "homebrew/cask-drivers": {
-        "revision": "59cf3a31d0285155a3e9396b12cd896188a30578"
+        "revision": "86ffb24786deb4e2ab783cba48a187ccc1a9e110"
       },
       "heroku/brew": {
         "revision": "8a16304dddd835811e964fc60967136045bef97b"
@@ -766,7 +791,7 @@
         }
       },
       "obsidian": {
-        "version": "0.9.22",
+        "version": "0.10.1",
         "options": {
           "full_name": "obsidian"
         }
@@ -904,9 +929,9 @@
         "macOS": "10.15.7"
       },
       "big_sur": {
-        "HOMEBREW_VERSION": "2.7.0-2-g6994633",
+        "HOMEBREW_VERSION": "2.7.0-11-g2c4aea9",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "84c6c43b31ece5cc412db7092a2331d9a843d753",
+        "Homebrew/homebrew-core": "2fbd8766de249f128db3092d1600f2e27651cbc5",
         "CLT": "1103.0.32.62",
         "Xcode": "11.5",
         "macOS": "11.0.1"
