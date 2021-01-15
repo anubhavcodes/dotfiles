@@ -10,11 +10,14 @@ export GOPRIVATE="github.com/Jimdo"
 autoload -Uz compinit && compinit
 
 # Favourite aliases
+alias watch="watch -n 2"
 alias dc="docker-compose"
 alias do="doctl"
 alias k="kubectl"
 alias cat="bat"
-alias watch="watch -n 2"
+
+# Favourite git aliases
+alias gs="git status"
 
 # Starship prompt
 # Must be at the end of zshrc
