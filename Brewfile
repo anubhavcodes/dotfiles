@@ -65,6 +65,7 @@ cask "dash"
 cask "nova"
 cask "lens"
 cask "syncthing"
+cask "font-juliamono"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628

@@ -15,6 +15,7 @@ alias dc="docker-compose"
 alias do="doctl"
 alias k="kubectl"
 alias cat="bat"
+alias cldns="sudo killall -HUP mDNSResponder"
 
 # Favourite git aliases
 alias gs="git status"
