@@ -7,3 +7,9 @@
 	rebase = true
 [core]
 	excludesfile = "~/.gitignore"
+[push]
+	default = current
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[init]
+	defaultBranch = main
