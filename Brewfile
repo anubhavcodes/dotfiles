@@ -59,13 +59,14 @@ cask "twitch"
 cask "raspberry-pi-imager"
 cask "anki"
 cask "vlc"
-cask "font-fira-code-nerd-font"
 cask "screen"
 cask "dash"
 cask "nova"
 cask "lens"
 cask "syncthing"
-cask "font-juliamono"
+cask "font-jetbrains-mono"
+cask "font-jetbrains-mono-nerd-font"
+cask "font-fira-code-nerd-font"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
