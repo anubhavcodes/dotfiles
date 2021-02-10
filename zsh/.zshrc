@@ -19,6 +19,7 @@ alias cldns="sudo killall -HUP mDNSResponder"
 
 # Favourite git aliases
 alias gs="git status"
+alias gp="git push"
 
 # Starship prompt
 # Must be at the end of zshrc
