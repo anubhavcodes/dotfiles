@@ -76,8 +76,7 @@ cask "font-cascadia-code"
 cask "font-cascadia-mono"
 cask "font-iosevka"
 cask "font-iosevka-nerd-font"
-cask "camo-studio"
-cask "sqlpro-for-mysql"
+cask "dbeaver-community"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
