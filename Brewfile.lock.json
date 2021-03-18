@@ -1245,6 +1245,12 @@
         "options": {
           "full_name": "dbeaver-community"
         }
+      },
+      "aerial": {
+        "version": "2.2.6",
+        "options": {
+          "full_name": "aerial"
+        }
       }
     },
     "mas": {
