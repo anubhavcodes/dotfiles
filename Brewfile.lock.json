@@ -929,6 +929,14 @@
       "kubectx": {
         "version": "0.9.3",
         "bottle": false
+      },
+      "yarn": {
+        "version": "1.22.10",
+        "bottle": false
+      },
+      "asdf": {
+        "version": "0.8.0_1",
+        "bottle": false
       }
     },
     "tap": {
@@ -1251,6 +1259,12 @@
         "options": {
           "full_name": "aerial"
         }
+      },
+      "tuple": {
+        "version": "0.82.0-2020,12-14-83be3274",
+        "options": {
+          "full_name": "tuple"
+        }
       }
     },
     "mas": {
@@ -1267,7 +1281,7 @@
       "Giphy Capture": null,
       "Numbers": {
         "id": "409203825",
-        "version": "10.3.9"
+        "version": "11.0"
       },
       "Jira Cloud by Atlassian": null,
       "reeder 5": null,
