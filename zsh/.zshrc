@@ -1,6 +1,9 @@
 # Enable direnv support
 eval "$(direnv hook zsh)"
 
+# Enable asdf integration
+echo -e "\n. $(brew --prefix asdf)/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
+
 # Go related envs
 export GOPATH=$(go env GOPATH)
 export PATH=$PATH:$(go env GOPATH)/bin
