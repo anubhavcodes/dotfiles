@@ -937,6 +937,10 @@
       "asdf": {
         "version": "0.8.0_1",
         "bottle": false
+      },
+      "nvm": {
+        "version": "0.37.2",
+        "bottle": false
       }
     },
     "tap": {
