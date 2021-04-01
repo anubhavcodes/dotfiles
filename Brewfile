@@ -79,6 +79,7 @@ cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "aerial"
 cask "tuple"
+cask "sizeup"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628

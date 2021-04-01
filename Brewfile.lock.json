@@ -1265,6 +1265,12 @@
         "options": {
           "full_name": "tuple"
         }
+      },
+      "sizeup": {
+        "version": "1.7.4",
+        "options": {
+          "full_name": "sizeup"
+        }
       }
     },
     "mas": {
