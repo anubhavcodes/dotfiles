@@ -34,6 +34,7 @@ brew "yarn"
 brew "kubectx"
 brew "asdf"
 brew "gnupg"
+brew "dive"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-drivers"
@@ -80,6 +81,7 @@ cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "aerial"
 cask "sizeup"
+cask "signal"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
