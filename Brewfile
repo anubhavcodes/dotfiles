@@ -35,6 +35,7 @@ brew "kubectx"
 brew "asdf"
 brew "gnupg"
 brew "dive"
+brew "cdktf"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-drivers"
@@ -93,3 +94,12 @@ mas "Giphy Capture", id: 668208984
 mas "Numbers", id: 409203825  
 mas "Jira Cloud by Atlassian", id: 1475897096
 mas "Meeter", id: 1510445899
+mas "Instapaper Save", id: 1481302432
+mas "Keynote", id: 409183694
+mas "iMovie", id: 408981434
+mas "Pages", id: 409201541
+mas "Numbers", id: 409203825
+mas "Pixelmator Pro", id: 1289583905
+mas "Affinity Publisher", id: 881418622
+mas "Affinity Photo", id: 824183456
+
