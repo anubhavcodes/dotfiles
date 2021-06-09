@@ -81,7 +81,6 @@ cask "font-cascadia-mono"
 cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "aerial"
-cask "sizeup"
 cask "signal"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
@@ -102,4 +101,6 @@ mas "Numbers", id: 409203825
 mas "Pixelmator Pro", id: 1289583905
 mas "Affinity Publisher", id: 881418622
 mas "Affinity Photo", id: 824183456
+mas "Magnet", id: 441258766
+
 
