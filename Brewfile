@@ -36,6 +36,7 @@ brew "asdf"
 brew "gnupg"
 brew "dive"
 brew "cdktf"
+brew "graphviz"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-drivers"
@@ -82,6 +83,8 @@ cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "aerial"
 cask "signal"
+cask "vanilla"
+cask "launchbar"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
