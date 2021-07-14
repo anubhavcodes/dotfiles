@@ -85,6 +85,7 @@ cask "aerial"
 cask "signal"
 cask "vanilla"
 cask "launchbar"
+cask "notion"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
