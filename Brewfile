@@ -77,6 +77,7 @@ cask "font-fira-code-nerd-font"
 cask "font-go-mono-nerd-font"
 cask "font-cascadia-code"
 cask "font-cascadia-mono"
+cask "font-cascadia-code-pl"
 cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "aerial"
@@ -84,6 +85,7 @@ cask "signal"
 cask "vanilla"
 cask "launchbar"
 cask "notion"
+cask "grammarly"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
