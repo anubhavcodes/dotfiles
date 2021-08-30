@@ -1,9 +1,6 @@
 # Enable direnv support
 eval "$(direnv hook zsh)"
 
-# Enable asdf integration
-echo -e "\n. $(brew --prefix asdf)/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
-
 # Enable Brew completions
 if type brew &>/dev/null; then
   FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
