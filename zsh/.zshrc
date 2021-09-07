@@ -32,3 +32,5 @@ alias gp="git push"
 # Must be at the end of zshrc
 eval "$(starship init zsh)"
 
+# Add brew's sbin to zshrc's PATH
+echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
