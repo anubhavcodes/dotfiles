@@ -86,6 +86,8 @@ cask "vanilla"
 cask "launchbar"
 cask "notion"
 cask "grammarly"
+cask "element"
+cask "textual"
 mas "1password", id: 1091189122
 mas "bear", id: 1333542190
 mas "paprikapp", id: 1303222628
