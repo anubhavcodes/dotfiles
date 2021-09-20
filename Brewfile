@@ -109,4 +109,4 @@ mas "Affinity Publisher", id: 881418622
 mas "Affinity Photo", id: 824183456
 mas "Magnet", id: 441258766
 mas "Grammarly for Safari", id: 1462114288
-
+brew "warrensbox/tap/tfswitch"
