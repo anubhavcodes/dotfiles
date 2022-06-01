@@ -53,6 +53,7 @@ cask "font-iosevka"
 cask "font-iosevka-nerd-font"
 cask "grammarly"
 cask "logitech-camera-settings"
+cask "zoom"
 mas "1password", id: 1333542190
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
@@ -67,3 +68,4 @@ mas "Affinity Publisher", id: 881418622
 mas "Affinity Photo", id: 824183456
 mas "Affinity Designer", id: 824171161
 mas "Magnet", id: 441258766
+mas "Goodnotes 5", id: 1444383602

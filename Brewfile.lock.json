@@ -2134,6 +2134,12 @@
         "options": {
           "full_name": "calibre"
         }
+      },
+      "zoom": {
+        "version": "5.10.6.7526",
+        "options": {
+          "full_name": "zoom"
+        }
       }
     },
     "mas": {
@@ -2202,7 +2208,8 @@
       "Affinity Designer": {
         "id": "824171161",
         "version": "1.10.5"
-      }
+      },
+      "Goodnotes 5": null
     }
   },
   "system": {
