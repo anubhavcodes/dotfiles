@@ -26,3 +26,6 @@ alias gp="git push"
 
 # Add brew's sbin to zshrc's PATH
 # echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+
+# Set global gopath
+export GOPATH=$HOME/projects/go
