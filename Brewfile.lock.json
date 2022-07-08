@@ -2140,6 +2140,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "crosspack-avr": {
+        "version": "2013-12-16",
+        "options": {
+          "full_name": "crosspack-avr"
+        }
       }
     },
     "mas": {
@@ -2156,7 +2162,7 @@
       "Giphy Capture": null,
       "Numbers": {
         "id": "409203825",
-        "version": "12.0"
+        "version": "12.1"
       },
       "Jira Cloud by Atlassian": null,
       "reeder 5": null,
@@ -2171,7 +2177,7 @@
       },
       "Keynote": {
         "id": "409183694",
-        "version": "12.0"
+        "version": "12.1"
       },
       "iMovie": {
         "id": "408981434",
@@ -2179,11 +2185,11 @@
       },
       "Pages": {
         "id": "409201541",
-        "version": "12.0"
+        "version": "12.1"
       },
       "Pixelmator Pro": {
         "id": "1289583905",
-        "version": "2.4.3"
+        "version": "2.4.5"
       },
       "Affinity Publisher": {
         "id": "881418622",
@@ -2199,7 +2205,7 @@
       },
       "Magnet": {
         "id": "441258766",
-        "version": "2.8.0"
+        "version": "2.9.0"
       },
       "Grammarly for Safari": {
         "id": "1462114288",
