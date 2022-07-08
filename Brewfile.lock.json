@@ -2146,6 +2146,12 @@
         "options": {
           "full_name": "crosspack-avr"
         }
+      },
+      "qmk-toolbox": {
+        "version": "0.2.2",
+        "options": {
+          "full_name": "qmk-toolbox"
+        }
       }
     },
     "mas": {
