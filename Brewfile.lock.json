@@ -1746,6 +1746,20 @@
             }
           }
         }
+      },
+      "qmk/qmk/qmk": {
+        "version": "1.1.0",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://github.com/qmk/homebrew-qmk/releases/download/qmk-1.1.0",
+          "files": {
+            "catalina": {
+              "cellar": ":any",
+              "url": "https://github.com/qmk/homebrew-qmk/releases/download/qmk-1.1.0/qmk-1.1.0.catalina.bottle.tar.gz",
+              "sha256": "90f10c34907159f92ffc188b389835609a8a8f1c5f78bb9ecd56de08b6073455"
+            }
+          }
+        }
       }
     },
     "tap": {
