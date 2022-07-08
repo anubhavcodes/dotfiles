@@ -54,7 +54,6 @@ cask "font-iosevka-nerd-font"
 cask "grammarly"
 cask "logitech-camera-settings"
 cask "zoom"
-cask "qmk-toolbox"
 mas "1password", id: 1333542190
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
