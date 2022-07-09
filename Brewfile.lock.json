@@ -2218,6 +2218,12 @@
         "options": {
           "full_name": "virtualbox-extension-pack"
         }
+      },
+      "remarkable": {
+        "version": "2.14.2.612,40108032",
+        "options": {
+          "full_name": "remarkable"
+        }
       }
     },
     "mas": {
