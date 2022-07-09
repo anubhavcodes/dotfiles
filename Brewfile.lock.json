@@ -1795,7 +1795,7 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "0ec7c70cf357a131954cdf5d9cde1b078e6e7915"
+        "revision": "e61fcfdf5e08bdc166ce940444bd977d5098a767"
       },
       "homebrew/cask-fonts": {
         "revision": "057549c676d52464fe639681eb000c72cdff8f27"
@@ -2224,6 +2224,18 @@
         "options": {
           "full_name": "remarkable"
         }
+      },
+      "vagrant-vmware-utility": {
+        "version": "1.0.21",
+        "options": {
+          "full_name": "vagrant-vmware-utility"
+        }
+      },
+      "vmware-fusion": {
+        "version": "12.2.3,19436697",
+        "options": {
+          "full_name": "vmware-fusion"
+        }
       }
     },
     "mas": {
@@ -2317,7 +2329,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.4-32-g8dd96ae",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "b46e387364a867e0af92ed20023de466f905ce5a",
+        "Homebrew/homebrew-core": "1abcad8993b69b3ddfc49282823efad47468be9d",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.4"

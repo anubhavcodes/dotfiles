@@ -64,6 +64,8 @@ cask "logitech-camera-settings"
 cask "zoom"
 cask "virtualbox"
 cask "virtualbox-extension-pack"
+cask "vmware-fusion"
+cask "vagrant-vmware-utility"
 cask "vagrant"
 cask "remarkable"
 mas "1password", id: 1333542190
