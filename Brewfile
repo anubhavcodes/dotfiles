@@ -81,3 +81,4 @@ mas "Affinity Photo", id: 824183456
 mas "Affinity Designer", id: 824171161
 mas "Magnet", id: 441258766
 mas "Goodnotes 5", id: 1444383602
+mas "Dark Reader for Safari", id: 1438243180
