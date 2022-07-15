@@ -1801,7 +1801,7 @@
         "revision": "7cbfd3169028ddcf26987436ed039b62caabb993"
       },
       "homebrew/cask-drivers": {
-        "revision": "027c27f97b7c3797a190bdd6d76e32c3377b541f"
+        "revision": "884875b662f13fbdf74094e280c69ab7f0fc0319"
       },
       "heroku/brew": {
         "revision": "8a16304dddd835811e964fc60967136045bef97b"
@@ -2242,6 +2242,12 @@
         "options": {
           "full_name": "monodraw"
         }
+      },
+      "sony-ps-remote-play": {
+        "version": "5.0.1",
+        "options": {
+          "full_name": "sony-ps-remote-play"
+        }
       }
     },
     "mas": {
@@ -2339,7 +2345,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.4",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "dd54c13d569b76a99de5fb5a19b584d136ade935",
+        "Homebrew/homebrew-core": "4a2c48d91c30b53809ff253e0cc625b733b3414a",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.4"

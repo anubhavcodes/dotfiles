@@ -68,6 +68,7 @@ cask "vagrant"
 cask "remarkable"
 cask "syncthing"
 cask "monodraw"
+cask "sony-ps-remote-play"
 mas "1password", id: 1333542190
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
