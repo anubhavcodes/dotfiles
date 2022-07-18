@@ -1795,7 +1795,7 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "b0d9a56b462ae6f4db6261559e24376ee08e2d4a"
+        "revision": "169ccf6b781afe5390844e2d72df9da7f28c10c7"
       },
       "homebrew/cask-fonts": {
         "revision": "7cbfd3169028ddcf26987436ed039b62caabb993"
@@ -1807,7 +1807,7 @@
         "revision": "8a16304dddd835811e964fc60967136045bef97b"
       },
       "qmk/qmk": {
-        "revision": "e91210eeb0a11f9505160237b18d5fd733aa51d7"
+        "revision": "2554565eef47904311cb26179a5951b90cb91171"
       }
     },
     "cask": {
@@ -2248,6 +2248,12 @@
         "options": {
           "full_name": "sony-ps-remote-play"
         }
+      },
+      "raycast": {
+        "version": "1.37.1",
+        "options": {
+          "full_name": "raycast"
+        }
       }
     },
     "mas": {
@@ -2343,9 +2349,9 @@
         "macOS": "11.6"
       },
       "monterey": {
-        "HOMEBREW_VERSION": "3.5.4",
-        "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "4a2c48d91c30b53809ff253e0cc625b733b3414a",
+        "HOMEBREW_VERSION": "3.5.4-85-g0c78567",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "85dd47f61258e539ef8104f63923d6c2eacc18c1",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.4"
