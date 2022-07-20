@@ -2332,6 +2332,12 @@
         "options": {
           "full_name": "raycast"
         }
+      },
+      "tunnelblick": {
+        "version": "3.8.7a,5770",
+        "options": {
+          "full_name": "tunnelblick"
+        }
       }
     },
     "mas": {
@@ -2427,9 +2433,9 @@
         "macOS": "11.6"
       },
       "monterey": {
-        "HOMEBREW_VERSION": "3.5.5-23-g9c08c5b",
-        "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "930c8ee5fcf85985bebf39288be18d89143f8b1b",
+        "HOMEBREW_VERSION": "3.5.5",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "0c0b02cd5500c11e0c014767301fd4a18dcad812",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.4"
