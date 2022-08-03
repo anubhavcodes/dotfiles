@@ -2,3 +2,4 @@
 .idea
 .tool-versions
 venv
+.vscode
