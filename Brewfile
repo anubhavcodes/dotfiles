@@ -76,7 +76,8 @@ cask "sony-ps-remote-play"
 cask "raycast"
 cask "tunnelblick"
 cask "lastpass"
-mas "1password", id: 1333542190
+cask "1password"
+mas "1password for Safari", id: 1569813296
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
 mas "Numbers", id: 409203825  

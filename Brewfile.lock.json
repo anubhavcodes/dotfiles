@@ -1951,13 +1951,13 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "8e824db47b152a835e3ed9458ad28402127fad8e"
+        "revision": "3bec85701b695b2f023018329f81bcdc6039d23c"
       },
       "homebrew/cask-fonts": {
         "revision": "385e32db668873c89960b2754187dca881c00c42"
       },
       "homebrew/cask-drivers": {
-        "revision": "9e270426c088e26691c2fbad8ac09d2b017d6d40"
+        "revision": "655ff3aa0e2256bea9699c717c56d1006144d398"
       },
       "heroku/brew": {
         "revision": "8a16304dddd835811e964fc60967136045bef97b"
@@ -2340,7 +2340,7 @@
         }
       },
       "zoom": {
-        "version": "5.11.3.9065",
+        "version": "5.11.5.9788",
         "options": {
           "full_name": "zoom"
         }
@@ -2422,6 +2422,12 @@
         "options": {
           "full_name": "lastpass"
         }
+      },
+      "1password": {
+        "version": "8.8.0",
+        "options": {
+          "full_name": "1password"
+        }
       }
     },
     "mas": {
@@ -2495,7 +2501,8 @@
       "Dark Reader for Safari": {
         "id": "1438243180",
         "version": "1.4.6"
-      }
+      },
+      "1password for Safari": null
     }
   },
   "system": {
@@ -2517,9 +2524,9 @@
         "macOS": "11.6"
       },
       "monterey": {
-        "HOMEBREW_VERSION": "3.5.9",
-        "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "81f0930003d389051f6f22e4dcfd696d19c37ccd",
+        "HOMEBREW_VERSION": "3.5.9-94-gf1e5120",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "78e34833a0d25f05929ecc46354ef5744a3ba5db",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.5"
