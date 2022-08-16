@@ -3,3 +3,5 @@
 .tool-versions
 venv
 .vscode
+.iml
+__pycache__
