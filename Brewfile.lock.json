@@ -2453,6 +2453,12 @@
         "options": {
           "full_name": "font-hack"
         }
+      },
+      "kitty": {
+        "version": "0.25.2",
+        "options": {
+          "full_name": "kitty"
+        }
       }
     },
     "mas": {
