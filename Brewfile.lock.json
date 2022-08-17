@@ -1947,11 +1947,15 @@
             }
           }
         }
+      },
+      "granted": {
+        "version": "0.2.6",
+        "bottle": false
       }
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "2235474d1cb50bc97554f49ee0302bfa30822775"
+        "revision": "1eef76a52dd8c3033a323eb60aa30ba04d78bf18"
       },
       "homebrew/cask-fonts": {
         "revision": "67adcb77145e2be706a4aa6ab425a35666dc4aed"
@@ -1964,6 +1968,9 @@
       },
       "qmk/qmk": {
         "revision": "b479beef8095a81cedd8dc23ea29415052cea061"
+      },
+      "common-fate/granted": {
+        "revision": "7ff959b0d5a0f489e52fd2634f0eefaf277bc44c"
       }
     },
     "cask": {
@@ -2340,7 +2347,7 @@
         }
       },
       "zoom": {
-        "version": "5.11.5.9788",
+        "version": "5.11.6.9890",
         "options": {
           "full_name": "zoom"
         }
@@ -2507,7 +2514,10 @@
         "id": "441258766",
         "version": "2.9.0"
       },
-      "Grammarly for Safari": null,
+      "Grammarly for Safari": {
+        "id": "1462114288",
+        "version": "9.60"
+      },
       "Affinity Designer": {
         "id": "824171161",
         "version": "1.10.5"
@@ -2541,7 +2551,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.9",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "c26add0487935ddeb222922f5a5b08d16abe2cd3",
+        "Homebrew/homebrew-core": "108d7e02caa7564cd8995d0d69721c181fefba3e",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4",
         "macOS": "12.5"
