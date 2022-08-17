@@ -80,7 +80,6 @@ cask "raycast"
 cask "tunnelblick"
 cask "lastpass"
 cask "1password"
-mas "1password for Safari", id: 1569813296
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
 mas "Numbers", id: 409203825  
@@ -95,4 +94,6 @@ mas "Affinity Photo", id: 824183456
 mas "Affinity Designer", id: 824171161
 mas "Magnet", id: 441258766
 mas "Goodnotes 5", id: 1444383602
+mas "Grammarly for Safari", id: 1462114288
 mas "Dark Reader for Safari", id: 1438243180
+mas "1password for Safari", id: 1569813296
