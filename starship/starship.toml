@@ -1,6 +1,0 @@
-add_newline = false
-
-[git_branch]
-symbol = "🌱 "
-truncation_length = 10
-truncation_symbol = ""
