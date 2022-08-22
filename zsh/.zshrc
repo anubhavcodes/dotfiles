@@ -17,10 +17,13 @@ alias gs="git status"
 alias gp="git push"
 
 # Add brew's sbin to zshrc's PATH
-echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+PATH="/usr/local/sbin:$PATH"
 
 # Set global gopath
 export GOPATH=$HOME/projects/go
 
 # Alias for granted.dev assume cli
 alias assume="source assume"
+
+# Alias for nvim
+alias vim="nvim"
