@@ -73,8 +73,6 @@ cask "font-hack"
 cask "grammarly"
 cask "logitech-camera-settings"
 cask "zoom"
-cask "vmware-fusion"
-cask "vagrant-vmware-utility"
 cask "vagrant"
 cask "remarkable"
 cask "syncthing"
@@ -85,6 +83,7 @@ cask "tunnelblick"
 cask "lastpass"
 cask "1password"
 cask "kitty"
+cask "steam"
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
 mas "Numbers", id: 409203825  
