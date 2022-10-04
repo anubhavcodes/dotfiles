@@ -2082,7 +2082,7 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "a0c7a15666c32e21b1c494ff8c307293c9e4c0ea"
+        "revision": "fc07e16f0768285f45406e74ec4d9f5bae157876"
       },
       "homebrew/cask-fonts": {
         "revision": "dbd0e839317766472edcfa0f6f5806f0f4b45a8e"
@@ -2586,6 +2586,18 @@
         "options": {
           "full_name": "kitty"
         }
+      },
+      "yubico-yubikey-manager": {
+        "version": "1.2.4",
+        "options": {
+          "full_name": "yubico-yubikey-manager"
+        }
+      },
+      "cider": {
+        "version": "1.5.7",
+        "options": {
+          "full_name": "cider"
+        }
       }
     },
     "mas": {
@@ -2684,7 +2696,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.6.4",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "822caeb49a473450ee479bb8cc5db54d25026a0a",
+        "Homebrew/homebrew-core": "0d200acf8112316d52d5896f94a139b4aca788e2",
         "CLT": "14.0.0.0.1.1661618636",
         "Xcode": "14.0",
         "macOS": "12.6"

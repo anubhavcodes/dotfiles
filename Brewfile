@@ -86,6 +86,7 @@ cask "1password"
 cask "kitty"
 cask "steam"
 cask "yubico-yubikey-manager"
+cask "cider"
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
 mas "Numbers", id: 409203825  
