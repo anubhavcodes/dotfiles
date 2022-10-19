@@ -105,3 +105,4 @@ mas "Goodnotes 5", id: 1444383602
 mas "Grammarly for Safari", id: 1462114288
 mas "Dark Reader for Safari", id: 1438243180
 mas "1password for Safari", id: 1569813296
+mas "Tailscale", id: 1475387142
