@@ -33,6 +33,7 @@ brew "gh"
 brew "neovim"
 brew "granted"
 brew "gsed"
+brew "caddy"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-drivers"
@@ -88,6 +89,7 @@ cask "yubico-yubikey-manager"
 cask "cider"
 cask "chiaki"
 cask "linear-linear"
+cask "telegram"
 mas "paprikapp", id: 1303222628
 mas "reeder 5", id: 1529448980
 mas "Numbers", id: 409203825  
