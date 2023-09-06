@@ -25,5 +25,10 @@ export GOPATH=$HOME/projects/go
 # Alias for granted.dev assume cli
 alias assume="source assume"
 
-# Alias for nvim
-alias vim="nvim"
+# Make sure to use the latest openssl from brew
+export LDFLAGS="-L/opt/homebrew/opt/openssl@3/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include"
+export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
+
+# Source 1passworld plugins
+source /Users/anubhav/.config/op/plugins.sh
