@@ -1,8 +1,8 @@
 [user]
-	signingKey = ""
 	useConfigOnly = true
-	email = contact+code@anubhav.codes
+	email = tech@anubhav.digital
 	name = Anubhav Y
+	signingkey = ~/.ssh/id_rsa.pub
 [pull]
 	rebase = true
 [core]
@@ -13,3 +13,12 @@
 	insteadOf = https://github.com/
 [init]
 	defaultBranch = main
+[gpg]
+  format = ssh
+
+[gpg "ssh"]
+  program = "/Applications/1Password.app/Contents/MacOS/op-ssh-sign"
+
+[commit]
+	gpgsign = true
+
