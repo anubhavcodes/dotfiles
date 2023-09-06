@@ -2981,7 +2981,7 @@
         }
       },
       "notion": {
-        "version": "2.0.19",
+        "version": "2.1.23",
         "options": {
           "full_name": "notion"
         }
@@ -3149,7 +3149,7 @@
         }
       },
       "linear-linear": {
-        "version": "1.12.2,2210280pdi6vcnm",
+        "version": "1.20.0,230825emn7aov0h",
         "options": {
           "full_name": "linear-linear"
         }
@@ -3176,6 +3176,12 @@
         "version": "2023.2.1,232.9559.58",
         "options": {
           "full_name": "pycharm-ce"
+        }
+      },
+      "linear": {
+        "version": "1.5",
+        "options": {
+          "full_name": "linear"
         }
       }
     },

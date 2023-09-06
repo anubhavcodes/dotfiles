@@ -45,6 +45,7 @@ cask "steam"
 cask "visual-studio-code"
 cask "zoom"
 cask "pycharm-ce"
+cask "linear-linear"
 mas "1Password for Safari", id: 1569813296
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
