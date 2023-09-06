@@ -2602,6 +2602,10 @@
       "sass/sass/sass": {
         "version": "1.66.1",
         "bottle": false
+      },
+      "themekit": {
+        "version": "v1.3.1",
+        "bottle": false
       }
     },
     "tap": {
@@ -2634,6 +2638,9 @@
       },
       "sass/sass": {
         "revision": "2fe8dc4f5a2cacf05b18aeaa59920d72f9b47173"
+      },
+      "shopify/shopify": {
+        "revision": "979259b9765226d36199a17d59076b11fa38cdcb"
       }
     },
     "cask": {
