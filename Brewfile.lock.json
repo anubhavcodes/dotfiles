@@ -3271,6 +3271,12 @@
         "options": {
           "full_name": "linear"
         }
+      },
+      "love": {
+        "version": "11.4",
+        "options": {
+          "full_name": "love"
+        }
       }
     },
     "mas": {
