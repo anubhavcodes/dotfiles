@@ -48,6 +48,8 @@ cask "zoom"
 cask "pycharm-ce"
 cask "linear-linear"
 cask "love"
+cask "obs"
+cask "shapr3d"
 mas "1Password for Safari", id: 1569813296
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
