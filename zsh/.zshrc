@@ -32,3 +32,6 @@ export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
 
 # Source 1passworld plugins
 source /Users/anubhav/.config/op/plugins.sh
+
+# Kubernetes goodies.
+alias k=kubectl
